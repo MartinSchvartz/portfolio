@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'mining.jpg',
     title: 'My Blockchain',
-    info: 'This was just a project to understand the basics how mining cryptocurrencies works. You can mine blocks that are added to the blockchain, create wallets and send money between them',
+    info: 'This was just a project to understand the basics of how mining cryptocurrencies works. You can mine blocks that are added to the blockchain, create wallets and send money between them',
     info2: 'Made with TypeScript',
     url: '',
     repo: 'https://github.com/MartinSchvartz/my_blockchain', // if no repo, the button will not show up
