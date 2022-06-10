@@ -29,6 +29,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'foodApp.png',
+    title: 'Where can i eat?',
+    info: 'This is project that I used to learn the fundamentals about react native, the use of different hooks like useState,useEffect and useReducer. Also I learned to create my own personalized hooks, manage api async request and handle that data with styling',
+    info2: 'Made with Expo',
+    url: '',
+    repo: 'https://github.com/MartinSchvartz/foodApp', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'mining.jpg',
     title: 'My Blockchain',
     info: 'This was just a project to understand the basics of how mining cryptocurrencies works. You can mine blocks that are added to the blockchain, create wallets and send money between them',
