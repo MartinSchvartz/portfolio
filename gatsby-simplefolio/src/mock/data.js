@@ -29,7 +29,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'foodApp.png',
+    img: 'homeFoodApp.png',
     title: 'Where can i eat?',
     info: 'This is project that I used to learn the fundamentals about react native, the use of different hooks like useState,useEffect and useReducer. Also I learned to create my own personalized hooks, manage api async request and handle that data with styling',
     info2: 'Made with Expo',
